@@ -29,8 +29,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdabdulaziz7322
+&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdulaziz7322
+&theme=radical" height="165" />
 </p>
 
 ---
@@ -38,7 +40,8 @@
 ### 🚀 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulaziz7322
+&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -46,7 +49,9 @@
 ### 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/mdabdulaziz7322
+/mdabdulaziz7322
+/blob/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -54,7 +59,8 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&area=true" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdabdulaziz7322
+&theme=react-dark&area=true" alt="activity-graph" />
 </p>
 
 ---
@@ -63,12 +69,14 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/mdabdulaziz7322
+"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://twitter.com/your-twitter"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [mdabdulaziz7322
+](https://github.com/YOUR_USERNAME)
 
