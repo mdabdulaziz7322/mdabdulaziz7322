@@ -45,9 +45,11 @@
 
 ### 🐍 Contribution Animation
 
-<p align="center">
-  <img src="https://github.com/mdabdulaziz7322/mdabdulaziz7322/blob/output/snake.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdabdulaziz7322/mdabdulaziz7322/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdabdulaziz7322/mdabdulaziz7322/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdabdulaziz7322/mdabdulaziz7322/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
