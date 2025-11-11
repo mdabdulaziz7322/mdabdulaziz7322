@@ -1,3 +1,9 @@
+
+<p align="center">
+  <!-- header: animated svg -->
+  <img src="./assets/particles.svg" alt="Animated particles" width="100%" />
+</p>
+
 <!-- 👋 Animated Intro -->
 <h1 align="center">Hi, I'm Md. Abul Aziz 👋</h1>
 <h3 align="center">🚀 MERN Stack & Web Developer | Building interactive, modern web experiences</h3>
