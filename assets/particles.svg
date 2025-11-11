@@ -1,26 +1,4 @@
-<!-- assets/particles.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="160" viewBox="0 0 1200 160" preserveAspectRatio="xMidYMid slice">
-  <defs>
-    <!-- glow filter -->
-    <filter id="fGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <linearGradient id="g1" x1="0" x2="1">
-      <stop offset="0" stop-color="#00f0ff"/>
-      <stop offset="1" stop-color="#38bdf8"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="1200" height="160" fill="transparent"/>
-
-  <!-- background faint dots -->
-  <g opacity="0.12" transform="translate(-50,0)">
-   <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="160" viewBox="0 0 1200 160" preserveAspectRatio="xMidYMid slice">
   <defs>
     <filter id="fGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
@@ -49,6 +27,9 @@
     <circle cx="400" cy="110" r="2"   fill="#ffffff"/>
     <circle cx="850" cy="40"  r="2.2" fill="#ffffff"/>
     <circle cx="1050" cy="130" r="2" fill="#ffffff"/>
+    <circle cx="300" cy="60"  r="2" fill="#ffffff"/>
+    <circle cx="600" cy="20"  r="1.8" fill="#ffffff"/>
+    <circle cx="1100" cy="100" r="2.2" fill="#ffffff"/>
   </g>
 
   <!-- animated particles -->
@@ -75,64 +56,60 @@
       <animate attributeName="r" dur="3.1s" repeatCount="indefinite" values="3;3.6;4;3.3;3"/>
     </circle>
     <circle r="3.2" fill="#2bb8ff" opacity="0.9">
-      <animate attributeName="cx" dur=
-Ï
-  </g>
-
-  <!-- animated particles -->
-  <g filter="url(#fGlow)">
-    <!-- particle 1 -->
-    <circle r="4" fill="url(#g1)" opacity="0.95">
-      <animate attributeName="cx" dur="7s" repeatCount="indefinite"
-               values="80;250;420;600;720;980;1100;80" />
-      <animate attributeName="cy" dur="6.2s" repeatCount="indefinite"
-               values="30;40;20;70;50;30;80;30" />
-      <animate attributeName="r" dur="2.6s" repeatCount="indefinite"
-               values="3;4;5;4;3" />
+      <animate attributeName="cx" dur="10s" repeatCount="indefinite" values="820;680;520;360;200;820"/>
+      <animate attributeName="cy" dur="6.4s" repeatCount="indefinite" values="50;30;80;50;40;50"/>
+      <animate attributeName="r" dur="2.8s" repeatCount="indefinite" values="2.6;3.2;2.9;3.6;2.6"/>
     </circle>
 
-    <!-- particle 2 -->
-    <circle r="3.5" fill="#9be7ff" opacity="0.9">
-      <animate attributeName="cx" dur="9s" repeatCount="indefinite"
-               values="200;380;540;750;920;200" />
-      <animate attributeName="cy" dur="4.8s" repeatCount="indefinite"
-               values="90;70;110;60;90" />
-      <animate attributeName="r" dur="3.2s" repeatCount="indefinite"
-               values="2.8;3.5;2.3;3.8;2.8" />
+    <!-- extra particles -->
+    <circle r="3" fill="#55d8ff" opacity="0.9">
+      <animate attributeName="cx" dur="8s" repeatCount="indefinite" values="150;300;450;600;750;900;1050;150"/>
+      <animate attributeName="cy" dur="7s" repeatCount="indefinite" values="20;60;30;80;50;30;70;20"/>
+      <animate attributeName="r" dur="3s" repeatCount="indefinite" values="2.5;3;3.5;3;2.5"/>
     </circle>
-
-    <!-- particle 3 -->
-    <circle r="3.8" fill="#7fe6ff" opacity="0.95">
-      <animate attributeName="cx" dur="6.6s" repeatCount="indefinite"
-               values="420;520;640;820;980;420" />
-      <animate attributeName="cy" dur="5.5s" repeatCount="indefinite"
-               values="40;20;60;30;50;40" />
-      <animate attributeName="r" dur="2.2s" repeatCount="indefinite"
-               values="3;4;3.8;3" />
+    <circle r="2.8" fill="#33cfff" opacity="0.85">
+      <animate attributeName="cx" dur="9s" repeatCount="indefinite" values="400;550;700;850;1000;1150;400"/>
+      <animate attributeName="cy" dur="6.5s" repeatCount="indefinite" values="60;40;70;50;80;60;60"/>
+      <animate attributeName="r" dur="2.5s" repeatCount="indefinite" values="2;2.8;3;2.8;2"/>
     </circle>
-
-    <!-- particle 4 -->
-    <circle r="3.6" fill="#4fd1ff" opacity="0.95">
-      <animate attributeName="cx" dur="8s" repeatCount="indefinite"
-               values="600;700;820;980;1100;600" />
-      <animate attributeName="cy" dur="7s" repeatCount="indefinite"
-               values="110;80;120;100;60;110" />
-      <animate attributeName="r" dur="3.1s" repeatCount="indefinite"
-               values="3;3.6;4;3.3;3" />
+    <circle r="3.2" fill="#00f0ff" opacity="0.9">
+      <animate attributeName="cx" dur="10s" repeatCount="indefinite" values="50;200;350;500;650;800;950;50"/>
+      <animate attributeName="cy" dur="8s" repeatCount="indefinite" values="30;70;40;80;50;60;30;30"/>
+      <animate attributeName="r" dur="3.2s" repeatCount="indefinite" values="2.5;3.2;3.5;3;2.5"/>
     </circle>
-
-    <!-- particle 5 -->
-    <circle r="3.2" fill="#2bb8ff" opacity="0.9">
-      <animate attributeName="cx" dur="10s" repeatCount="indefinite"
-               values="820;680;520;360;200;820" />
-      <animate attributeName="cy" dur="6.4s" repeatCount="indefinite"
-               values="50;30;80;50;40;50" />
-      <animate attributeName="r" dur="2.8s" repeatCount="indefinite"
-               values="2.6;3.2;2.9;3.6;2.6" />
+    <circle r="3" fill="#38e0ff" opacity="0.85">
+      <animate attributeName="cx" dur="6.5s" repeatCount="indefinite" values="700;820;940;1060;1180;700"/>
+      <animate attributeName="cy" dur="5.8s" repeatCount="indefinite" values="40;60;30;70;50;40"/>
+      <animate attributeName="r" dur="2.7s" repeatCount="indefinite" values="2.8;3;3.2;3;2.8"/>
+    </circle>
+    <circle r="3" fill="#66d9ff" opacity="0.9">
+      <animate attributeName="cx" dur="7.5s" repeatCount="indefinite" values="100;300;500;700;900;1100;100"/>
+      <animate attributeName="cy" dur="6s" repeatCount="indefinite" values="60;40;80;50;70;60;60"/>
+      <animate attributeName="r" dur="2.5s" repeatCount="indefinite" values="2.5;3;3.2;3;2.5"/>
+    </circle>
+    <circle r="2.7" fill="#99e7ff" opacity="0.85">
+      <animate attributeName="cx" dur="8.5s" repeatCount="indefinite" values="250;450;650;850;1050;250"/>
+      <animate attributeName="cy" dur="6.7s" repeatCount="indefinite" values="30;50;20;60;40;30"/>
+      <animate attributeName="r" dur="2.3s" repeatCount="indefinite" values="2;2.7;3;2.7;2"/>
+    </circle>
+    <circle r="3.1" fill="#44d1ff" opacity="0.9">
+      <animate attributeName="cx" dur="9.2s" repeatCount="indefinite" values="400;600;800;1000;1200;400"/>
+      <animate attributeName="cy" dur="7s" repeatCount="indefinite" values="70;40;60;50;80;70"/>
+      <animate attributeName="r" dur="3s" repeatCount="indefinite" values="2.8;3;3.2;3;2.8"/>
+    </circle>
+    <circle r="2.9" fill="#22cfff" opacity="0.85">
+      <animate attributeName="cx" dur="10.5s" repeatCount="indefinite" values="50;250;450;650;850;1050;50"/>
+      <animate attributeName="cy" dur="8s" repeatCount="indefinite" values="40;70;30;60;50;80;40"/>
+      <animate attributeName="r" dur="2.8s" repeatCount="indefinite" values="2.5;2.9;3.1;2.9;2.5"/>
+    </circle>
+    <circle r="2.8" fill="#33eaff" opacity="0.85">
+      <animate attributeName="cx" dur="7.8s" repeatCount="indefinite" values="150;350;550;750;950;1150;150"/>
+      <animate attributeName="cy" dur="6.5s" repeatCount="indefinite" values="50;30;60;40;70;50;50"/>
+      <animate attributeName="r" dur="2.6s" repeatCount="indefinite" values="2.5;2.8;3;2.8;2.5"/>
     </circle>
   </g>
 
-  <!-- subtle connecting lines (faux) -->
+  <!-- subtle connecting lines -->
   <g stroke="#6ee7ff" stroke-opacity="0.06" stroke-width="0.8">
     <line x1="220" y1="85" x2="360" y2="30"/>
     <line x1="360" y1="30" x2="520" y2="120"/>
