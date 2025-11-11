@@ -1,5 +1,5 @@
 <!-- 👋 Animated Intro -->
-<h1 align="center">Hi, I'm Shanjeed Saif 👋</h1>
+<h1 align="center">Hi, I'm Md. Abul Aziz 👋</h1>
 <h3 align="center">🚀 MERN Stack & Web Developer | Building interactive, modern web experiences</h3>
 
 <!-- Typing Animation -->
@@ -14,7 +14,7 @@
 - 💻 I specialize in **MERN Stack Development**
 - ⚡ Focused on creating modern, responsive, and animated web apps
 - 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **mdabdulaziz7322@gmail.com**
 
 ---
 
@@ -29,10 +29,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdabdulaziz7322
-&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdulaziz7322
-&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdabdulaziz7322&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdulaziz7322&theme=radical" height="165" />
 </p>
 
 ---
@@ -40,8 +38,7 @@
 ### 🚀 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulaziz7322
-&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulaziz7322&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -49,9 +46,7 @@
 ### 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://github.com/mdabdulaziz7322
-/mdabdulaziz7322
-/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/mdabdulaziz7322/mdabdulaziz7322/blob/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -59,8 +54,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdabdulaziz7322
-&theme=react-dark&area=true" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdabdulaziz7322&theme=react-dark&area=true" alt="activity-graph" />
 </p>
 
 ---
@@ -69,8 +63,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/mdabdulaziz7322
-"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/mdabdulaziz7322"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://twitter.com/your-twitter"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
