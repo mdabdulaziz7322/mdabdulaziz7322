@@ -1,30 +1,29 @@
-
-<!-- ================= HEADER ================= -->
 <p align="center">
+  <!-- header: animated svg -->
   <img src="./assets/particles.svg" alt="Animated particles" width="100%" />
 </p>
 
+<!-- 👋 Animated Intro -->
 <h1 align="center">Hi, I'm Md. Abul Aziz 👋</h1>
-<h3 align="center">🚀 MERN Stack & Web Developer | Building modern web experiences</h3>
+<h3 align="center">🚀 MERN Stack & Web Developer | Building interactive, modern web experiences</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1FC9E7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Specialist;JavaScript+%7C+React+%7C+Node.js;UI%2FUX+Focused+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1FC9E7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Specialist;JavaScript+%7C+React+%7C+Node.js;Passionate+about+UI%2FUX+Design;Building+scalable+apps+and+beautiful+websites" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
-- 💻 MERN Stack Developer (MongoDB, Express, React, Node)
-- ⚡ Love building responsive & animated web apps
-- 🎨 Strong focus on clean UI / UX
-- 🌐 Portfolio: **Coming Soon**
-- 📫 Email: **mdabdulaziz7322@gmail.com**
+- 💻 I specialize in **MERN Stack Development**
+- ⚡ Focused on creating modern, responsive, and animated web apps
+- 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+- 📫 Reach me at: **mdabdulaziz7322@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,git,github,vscode" />
@@ -32,49 +31,52 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=mdabdulaziz7322&show_icons=true&theme=radical&cache_seconds=86400" />
-  <img height="165"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdulaziz7322&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdabdulaziz7322&show_icons=true&theme=radical&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdulaziz7322&theme=radical" height="165" />
 </p>
 
 ---
 
-## 🚀 Top Languages
+### 🚀 Top Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulaziz7322&layout=compact&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulaziz7322&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+### 🐍 Contribution Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdabdulaziz7322/mdabdulaziz7322/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdabdulaziz7322/mdabdulaziz7322/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdabdulaziz7322/mdabdulaziz7322/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 📈 Activity Graph
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/mdabdulaziz7322/mdabdulaziz7322/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdabdulaziz7322&theme=react-dark&area=true" alt="activity-graph" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/mdabdulaziz7322">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="mailto:mdabdulaziz7322@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/mdabdulaziz7322"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-⭐️ From **Md. Abul Aziz**
-
+⭐️ From [mdabdulaziz7322
+](https://github.com/YOUR_USERNAME)
 
