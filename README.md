@@ -35,7 +35,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdabdulaziz7322&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdabdulaziz7322&show_icons=true&theme=radical&cache_seconds=86400" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdulaziz7322&theme=radical" height="165" />
 </p>
 
@@ -44,7 +44,7 @@
 ### 🚀 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulaziz7322&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulaziz7322&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 
 ---
