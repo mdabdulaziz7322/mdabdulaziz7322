@@ -18,7 +18,7 @@
 
 - 💻 I specialize in **MERN Stack Development**
 - ⚡ Focused on creating modern, responsive, and animated web apps
-- 🌐 Portfolio: [[https://your-portfolio-link.com](https://zesty-moonbeam-cad019.netlify.app/)]
+- 🌐 Portfolio: [md-abdul-aziz-portfolio.netlify.app(https://zesty-moonbeam-cad019.netlify.app/)]
 - 📫 Reach me at: **mdabdulaziz7322@gmail.com**
 
 ---
